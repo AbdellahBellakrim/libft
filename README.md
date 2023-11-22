@@ -1,7 +1,5 @@
 # Libft - Your Very First Own C Library
 
-![Libft](libft_logo.png)
-
 ## Table of Contents
 - [Introduction](#introduction)
 - [Common Instructions](#common-instructions)
